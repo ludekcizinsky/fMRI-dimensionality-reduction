@@ -1,0 +1,1 @@
+🔮 This folder is `gitignored` and serves as a scratchbook, feel free to use it for various experimentations which should not go to the main project folder.
