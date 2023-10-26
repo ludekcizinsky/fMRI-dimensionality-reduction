@@ -27,3 +27,4 @@ Otherwise, using `pip`, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
+s
